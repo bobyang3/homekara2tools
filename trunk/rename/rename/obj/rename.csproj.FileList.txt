@@ -1,0 +1,9 @@
+bin\Debug\rename.exe.config
+bin\Debug\rename.exe
+bin\Debug\rename.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\rename.Form1.resources
+obj\Debug\rename.Properties.Resources.resources
+obj\Debug\rename.csproj.GenerateResource.Cache
+obj\Debug\rename.exe
+obj\Debug\rename.pdb
